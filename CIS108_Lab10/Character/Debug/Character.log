@@ -1,0 +1,10 @@
+﻿  NPC.cpp
+  character.cpp
+  dragon.cpp
+  guardian.cpp
+  main.cpp
+  monster.cpp
+  townperson.cpp
+  troll.cpp
+  Generating Code...
+  Character.vcxproj -> C:\Users\siban\source\repos\CIS108_Lab10\Debug\Exercise 1.exe
